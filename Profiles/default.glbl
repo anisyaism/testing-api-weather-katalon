@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://api.openweathermap.org/data/2.5/forecast/daily'</initValue>
+      <name>base_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12ba917183f6ab9d5cd00068496aee1c'</initValue>
+      <name>API_key</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
